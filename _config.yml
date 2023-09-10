@@ -102,6 +102,4 @@ theme: clean-blog
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:Jamrot/blog.git
-  branch: master
+  type: ''
